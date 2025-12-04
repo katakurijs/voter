@@ -1,29 +1,44 @@
 {
   "Realest viewer": {
-    "izaan_bad": 1,
-    "kata6999": 2
+    "izaan_bad": 0,
+    "kata6999": 0,
+    "jaden": 0,
+    "thomasvanwinkle": 0,
+    "v3rt1cal": 1
   },
   "Funniest viewer": {
-    "bigbootybrobouncer": 1,
-    "v3rt1cal": 1
+    "bigbootybrobouncer": 0,
+    "v3rt0cal": 0,
+    "izaan_bad": 0,
+    "thomasvanwinkle": 0,
+    "ARD_Sr": 1
   },
   "Most aura viewer": {
-    "m3rcury003": 1,
-    "v3rt1cal": 1
+    "m3rcury003": 0,
+    "v3rt0cal": 0,
+    "ARD_Sr": 0,
+    "thomasvanwinkle": 1
   },
   "Smartest viewer": {
-    "just_albania67": 1,
-    "Tomfoolerery": 1
+    "just_albania67": 0,
+    "Tomfoolerery": 1,
+    "m3rcury003": 0
   },
   "Kindest viewer": {
-    "just_albania67": 1,
-    "kata6999": 1
+    "just_albania67": 0,
+    "kata6999": 1,
+    "niles": 0,
+    "m3rcury003": 0
   },
   "Richest viewer": {
-    "just_albania67": 1
+    "just_albania67": 0,
+    "m3rcury003": 0,
+    "laviluvcheerios": 1
   },
   "The best viewer": {
-    "just_albania67": 1,
-    "kata6999": 1
+    "just_albania67": 0,
+    "kata6999": 0,
+    "m3rcury003": 0,
+    "izaan_bad": 1
   }
 }
